@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=lf
+*.c.inc         diff=c
+*.h.inc         diff=c
+*.py            diff=python
